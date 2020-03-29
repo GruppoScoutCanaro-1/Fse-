@@ -45,6 +45,7 @@ background-color: #ccffe6;
 
 body {font-family: 'Domine', serif;
 font-size: large;
+
 }
 
 
@@ -52,6 +53,7 @@ font-size: large;
 a:hover {color: red; }
 
 a.active {
+
 	color: #ff1a1a;
 }
 
@@ -71,5 +73,9 @@ div.desc {
   ;
 }
 
+p.motto {
+  font-size: 2em;
+}
 
-
+p.video {font-family: 'Domine', serif;
+font-size: 1em;}
