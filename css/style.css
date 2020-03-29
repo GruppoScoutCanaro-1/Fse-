@@ -73,9 +73,20 @@ div.desc {
   ;
 }
 
-p.motto {
+.motto {
   font-size: 2em;
 }
 
-p.video {font-family: 'Domine', serif;
+.video {font-family: 'Domine', serif;
 font-size: 1em;}
+
+
+div.lastoria {
+  padding: 3em;
+}
+
+div.orga {
+  padding: 3em;
+}
+
+
