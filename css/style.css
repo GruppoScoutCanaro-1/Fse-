@@ -6,12 +6,10 @@ font-family: 'Neucha', cursive;
 
 h1 {font-size: 48px;}
 h2 {font-size: 32px;}
+
 nav ul li b a:hover {
-
-	color: black;
-	padding: 2px;
+	color: red;
 	margin: auto;
-
 }
 
 
@@ -45,7 +43,6 @@ background-color: #ccffe6;
 
 body {font-family: 'Domine', serif;
 font-size: large;
-
 }
 
 
@@ -67,7 +64,7 @@ div.gallery {
 
 
 div.desc {
-  padding: 15px;
+  padding: 1em;
   text-align: center;
   color: #0000CD;
   ;
